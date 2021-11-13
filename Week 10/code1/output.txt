@@ -1,2 +1,0 @@
-No. of non-conflicting activities: 4
-Selected task numbers: 1 4 7 10 
