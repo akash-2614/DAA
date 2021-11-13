@@ -1,1 +1,0 @@
-Minimum spanning weight : 39
